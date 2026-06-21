@@ -1,0 +1,6 @@
+{
+  "name": "HojiiLink Ethiopia",
+  "description": "A high-performance, bilingual (English & Afaan Oromo) Freelance Marketplace Platform optimized for Ethiopian and international talent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
