@@ -363,5 +363,4 @@ export async function deleteJob(req: AuthenticatedRequest, res: Response): Promi
     const err = error as Error;
     res.status(500).json({ error: 'Server Error', message: 'An internal error occurred.', details: err.message });
   }
-        }
-        
+}
